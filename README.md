@@ -2,6 +2,7 @@
 **Live dashboard:** https://datastudio.google.com/reporting/d2fbc218-feff-416c-aed2-08c9a478298b
 **Tools:** Google Sheets · Looker Studio
 **Dataset:** RavenStack synthetic SaaS data (5 tables, ~33k rows) — credit to River @ Rivalytics
+<img width="859" height="640" alt="image" src="https://github.com/user-attachments/assets/8c71b290-8f7f-410f-a88b-e372e1ca6ff6" />
 
 ---
 
