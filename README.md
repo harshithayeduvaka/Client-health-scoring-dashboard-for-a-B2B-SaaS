@@ -1,7 +1,7 @@
 # RavenStack Client Health Dashboard
 
 **Live dashboard:** https://datastudio.google.com/reporting/d2fbc218-feff-416c-aed2-08c9a478298b
-**Tools:** Google Sheets · Looker Studio
+**Tools:** Google Sheets, Looker Studio
 **Dataset:** RavenStack synthetic SaaS data (5 tables, ~33k rows) — credit to River @ Rivalytics
 
 ---
